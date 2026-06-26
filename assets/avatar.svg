@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="120" height="120" viewBox="0 0 120 120">
-  <defs>
-    <clipPath id="circle">
-      <circle cx="60" cy="60" r="60"/>
-    </clipPath>
-  </defs>
-  <image href="https://avatars.githubusercontent.com/u/7991870?v=4" x="0" y="0" width="120" height="120" clip-path="url(#circle)" preserveAspectRatio="xMidYMid slice"/>
-</svg>

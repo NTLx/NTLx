@@ -7,33 +7,14 @@
 
 </div>
 
-<table>
-  <tr>
-    <!-- 左栏:头像与信息卡 -->
-    <td width="200" align="center" valign="top">
-      <img src="assets/avatar.svg" width="120" height="120" alt="avatar"/>
-      <br/>
-      <h3>NTLx</h3>
-      <sub>Play with music&reg;</sub>
-      <br/><br/>
-      <p align="left">
-        &nbsp;&nbsp;📍 Shanghai, China<br/>
-        &nbsp;&nbsp;🕒 12 yrs on GitHub<br/>
-        &nbsp;&nbsp;🏢 @Cubicise-Medical
-      </p>
-      <a href="https://ntlx.github.io">
-        <img src="https://img.shields.io/badge/blog-ntlx.github.io-22d3ee?style=flat-square&logo=github&logoColor=white" alt="blog"/>
-      </a>
-    </td>
-    <!-- 右栏:介绍 + 徽章 -->
-    <td valign="top">
+<div align="center">
 
 <details open>
 <summary><b>🌐 关于我 / About me</b></summary>
 
 🇨🇳 **中文**
 
-一名常驻上海的 AI/LLM 应用探索者,喜欢用代码造工具、把玩技术。在医疗科技公司 `@Cubicise-Medical` 之余,折腾 AI 编码助手、Agent 工作流、微信生态工具与跨平台桌面应用。相信「Play with music」——技术本就该是好玩的。
+一名常驻上海的 AI/LLM 应用探索者，喜欢用代码造工具、把玩技术。在医疗科技公司 `@Cubicise-Medical` 之余，折腾 AI 编码助手、Agent 工作流、微信生态工具与跨平台桌面应用。相信「Play with music」——技术本就该是好玩的。
 
 <details>
 <summary>🇬🇧 English version</summary>
@@ -59,9 +40,7 @@ An AI/LLM application explorer based in Shanghai who loves building tools and ti
 
 </details>
 
-    </td>
-  </tr>
-</table>
+</div>
 
 <div align="center">
 
@@ -75,4 +54,4 @@ An AI/LLM application explorer based in Shanghai who loves building tools and ti
 
 </div>
 
-<!-- Pinned Repos 由 GitHub 原生渲染,本 README 不重复造卡 -->
+<!-- Pinned Repos 由 GitHub 原生渲染，本 README 不重复造卡 -->
