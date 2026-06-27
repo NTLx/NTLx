@@ -14,12 +14,12 @@
 
 🇨🇳 **中文**
 
-一名常驻上海的 AI/LLM 应用探索者，喜欢用代码造工具、把玩技术。在医疗科技公司 `@Cubicise-Medical` 之余，折腾 AI 编码助手、Agent 工作流、微信生态工具与跨平台桌面应用。相信「Play with music」——技术本就该是好玩的。
+一名 AI/LLM 应用探索者，喜欢用代码造工具、把玩技术。在医疗科技公司上班之余，折腾 AI 编码助手、Agent 工作流、微信生态工具与跨平台桌面应用。相信「Play with music」——技术本就该是好玩的。
 
 <details>
 <summary>🇬🇧 English version</summary>
 
-An AI/LLM application explorer based in Shanghai who loves building tools and tinkering with tech. Outside of work at `@Cubicise-Medical`, I hack on AI coding assistants, agent workflows, WeChat-ecosystem tools, and cross-platform desktop apps. I believe in "Play with music" — tech should be fun.
+An AI/LLM application explorer who loves building tools and tinkering with tech. Outside of work at Medical Company, I hack on AI coding assistants, agent workflows, WeChat-ecosystem tools, and cross-platform desktop apps. I believe in "Play with music" — tech should be fun.
 
 </details>
 
